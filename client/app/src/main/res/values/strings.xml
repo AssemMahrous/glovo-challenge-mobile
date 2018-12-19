@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glovo</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_denied_explanation">location permission denied</string>
+    <string name="permission_rationale">need permission</string>
+    <string name="submit">submit</string>
+    <string name="city_name">city Name:</string>
+    <string name="city_code">City code:</string>
+    <string name="please_choose_city_as_you_are_not_in_any_equivalent_working_areas">please choose city as you are not in any equivalent working areas</string>
+</resources>
